@@ -9,4 +9,15 @@ It takes around 5 SECONDS per image
 
 - create a folder called input/  
 - put all your images (jpg or jpeg) in the folder  
-- run with node index.js and wait for the result  
+
+# Run on Linux:  
+
+- ./colorisation-linux  
+
+# Run on windows:
+
+- launch colorisation-win.exe
+
+# Run on Mac Os:
+
+- I don't know
