@@ -1,3 +1,9 @@
 #output images
 colorized/
+
+#input images
 input/
+
+#node modules
+node_modules/
+package-lock.json

@@ -12,5 +12,10 @@
   "bugs": {
     "url": "https://gitlab.com/Tireur2cables/colorizeimages/issues"
   },
-  "homepage": "https://gitlab.com/Tireur2cables/colorizeimages#readme"
+  "homepage": "https://gitlab.com/Tireur2cables/colorizeimages#readme",
+  "dependencies": {
+    "deepai": "^1.0.15",
+    "fs": "0.0.1-security",
+    "request": "^2.88.2"
+  }
 }
