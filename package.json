@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "colorisation avec deepai",
   "main": "index.js",
+  "bin": "index.js",
   "repository": {
     "type": "git",
     "url": "https://gitlab.com/Tireur2cables/colorizeimages"
