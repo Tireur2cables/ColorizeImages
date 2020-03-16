@@ -1,0 +1,16 @@
+{
+  "name": "colorisation",
+  "version": "1.0.0",
+  "description": "colorisation avec deepai",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.com/Tireur2cables/colorizeimages"
+  },
+  "author": "Nicolas Battaglini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/Tireur2cables/colorizeimages/issues"
+  },
+  "homepage": "https://gitlab.com/Tireur2cables/colorizeimages#readme"
+}
